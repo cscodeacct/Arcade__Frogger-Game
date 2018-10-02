@@ -107,8 +107,8 @@ Player.prototype.handleInput = function (move) {
 var allEnemies = [];
 
 // Enemies and player position on the Y Axis
-var enemyPosition = [60, 140, 220];
-var player = new Player(200, 380, 50);
+var enemies = [80, 160, 220];
+var player = new Player(240, 380, 50);
 var enemy;
 
 enemies.forEach(function (axisY) {
