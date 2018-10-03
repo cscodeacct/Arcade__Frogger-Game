@@ -4,6 +4,7 @@
 
 * [Build](#build)
 * [How to Play](#howtoplay)
+* [Credit](#credit)
 
 
 ## Build
